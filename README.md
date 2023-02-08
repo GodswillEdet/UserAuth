@@ -15,5 +15,6 @@ git clone https://github.com/GodswillEdet/UserAuth.git
 
 ## To run the program in local server use the following command
 `python manage.py runserver`
+
 Then go to http://127.0.0.1:8000/ in your browser
     
