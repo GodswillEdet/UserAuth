@@ -1,3 +1,2 @@
 # Installation
-
-## Coming Soon
+Full user authentication system implemented in Django and bootstrap
