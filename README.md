@@ -1,4 +1,8 @@
 # User-Auth
+Full user authentication system implemented in Django and bootstrap
 
 # Installation
-Full user authentication system implemented in Django and bootstrap
+```open terminal and type```
+
+`git clone https://github.com/GodswillEdet/UserAuth.git`
+    
